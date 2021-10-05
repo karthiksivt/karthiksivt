@@ -3,7 +3,7 @@
 - 🌱 I’m currently Working as full stack developer.
 - 💞️ I’m trying my best to explore webdevelopment.
 - I Work on flask , Django Frameworks mostly . 
-- 📫 How to reach me ...karhtiksivt@gmail.com
+- 📫 How to reach me ...karthiksivt@gmail.com
 
 <!---
 karthiksivt/karthiksivt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
