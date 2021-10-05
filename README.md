@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @karthiksivt
-- 👀 I’m interested in webdevelopment and python 
-- 🌱 I’m currently learning python 
-- 💞️ I’m trying my best to explore webdevelopment
+- 👋 Hi, I’m @karthik
+- 👀 I’m interested in webdevelopment and python.
+- 🌱 I’m currently Working as full stack developer.
+- 💞️ I’m trying my best to explore webdevelopment.
+- I Work on flask , Django Frameworks mostly . 
 - 📫 How to reach me ...karhtiksivt@gmail.com
 
 <!---
