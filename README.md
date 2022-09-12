@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karthik
 - 👀 I’m interested in webdevelopment and python.
-- 🌱 I’m currently Working as full stack developer.
+- 🌱 I’m currently Working as Technical Support Engineer.
 - 💞️ I’m trying my best to explore webdevelopment.
-- I Work on flask , Django Frameworks mostly . 
+- I Work Mostly fixing the issues in front end development and product related issues. . 
 - 📫 How to reach me ...karthiksivt@gmail.com
 
 <!---
