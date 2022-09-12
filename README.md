@@ -2,7 +2,8 @@
 - 👀 I’m interested in webdevelopment and python.
 - 🌱 I’m currently Working as Technical Support Engineer.
 - 💞️ I’m trying my best to explore webdevelopment.
-- I Work Mostly fixing the issues in front end development and product related issues. . 
+- I Work Mostly fixing the issues in front end development and product related issues.
+- Mostly on Json files and order API's. 
 - 📫 How to reach me ...karthiksivt@gmail.com
 
 <!---
